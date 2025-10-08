@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Public-Codex/static/css/main.f292d852.css",
+    "main.js": "/Public-Codex/static/js/main.454141d2.js",
+    "static/js/317.d38ee2e5.chunk.js": "/Public-Codex/static/js/317.d38ee2e5.chunk.js",
+    "index.html": "/Public-Codex/index.html",
+    "main.f292d852.css.map": "/Public-Codex/static/css/main.f292d852.css.map",
+    "main.454141d2.js.map": "/Public-Codex/static/js/main.454141d2.js.map",
+    "317.d38ee2e5.chunk.js.map": "/Public-Codex/static/js/317.d38ee2e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f292d852.css",
+    "static/js/main.454141d2.js"
+  ]
+}
